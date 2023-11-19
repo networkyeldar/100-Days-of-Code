@@ -4,7 +4,7 @@ import pandas
 import datetime as dt
 import random
 my_email = "eltaiuly1205@gmail.com"
-password = "mzymtbymhzfnslga"
+password = "********"
 
 
 
